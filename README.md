@@ -4,13 +4,31 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ProcessPath – Your Process, Your Flow
 
-A few resources to get you started if this is your first Flutter project:
+From planning a trip to managing a project, ProcessPath helps you map, track, and remember every step of any process—clearly, visually, and beautifully.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Whether it’s booking a train, making a recipe, organizing a checklist, or onboarding a new idea, ProcessPath turns your tasks into timelines and your thoughts into action.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Key Features
+
+- ✅ Create, edit, and delete processes with ease—name them, organize them, and make them your own  
+- 🧭 Timeline view + Checklist mode for every process entry—switch between visual flow and actionable lists  
+- 🔹 Nested points inside entries—write down important ones related to entry.  
+- 📚 Sidebar navigation—to other action or all of it just at your finger tips 
+- 🌗 Light/Dark mode toggle—choose the look that suits your mood  
+- 🔊 Sound controls—enable or disable tones for a focused experience  
+- 🆘 Help, Feedback, and About screens—transparency and support, built in  
+- 📄 PDF export—share or archive your entire process in a clean, readable format  
+- 🔐 Google & Email login—securely save your data across devices  
+- 👤 Guest mode—explore the app without signing in  
+- 🔁 Logout & Reset options—full control over your data and experience
+
+
+🎯 Why ProcessPath?
+
+Because every journey—big or small—deserves to be remembered.  
+Because clarity beats chaos.  
+Because your process matters.
+
